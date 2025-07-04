@@ -38,7 +38,7 @@ This is a small web project built with HTML, CSS, and JavaScript that displays a
 
 ## 🌐 Demo en vivo / Live Demo
 
-- GitHub Pages: [https://veiron46.github.io/Cuenta-atras-romantica/]()https://veiron46.github.io/Cuenta-atras-romantica/)
+- GitHub Pages: (https://veiron46.github.io/Cuenta-atras-romantica/)
 
 > Reemplaza los enlaces con los tuyos / Replace the links with your own.
 
